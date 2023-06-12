@@ -1,0 +1,1 @@
+- [Why You Shouldn't Pay For Cybersecurity Tools - 9 Open Source Options for Small Companies](https://youtu.be/aRc9cJiuZEo)
