@@ -1,0 +1,1 @@
+- [Windows Platform Binary Table - OWASP, Tor anti-DoS protection, Mandatory SMB Signing on Win 11](https://youtu.be/SdTqXGXDM4c)
