@@ -6,3 +6,5 @@
 [The New Guy at the Office Is a Secret Super Hacker🎙Darknet Diaries Ep. 36: Jeremy From Marketing](https://odysee.com/@jackrhysider:4/the-new-guy-at-the-office-is-a-secret:2)
 
 [How I Would Learn Cyber Security (If I Could Start Over)](https://youtu.be/ixpdwLKgZ7A)
+
+[How Super Hackers Take Total Control With One Click🎙Darknet Diaries Ep. 82: Master of Pwn](https://youtu.be/cCojdhIBNeM)
