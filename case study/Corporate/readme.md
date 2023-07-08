@@ -1,0 +1,1 @@
+- [Sony Attacked Anonymous And Immediately Regretted it](https://youtu.be/66A4zcJaPLk)
