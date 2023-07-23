@@ -1,3 +1,4 @@
 - [Windows Platform Binary Table - OWASP, Tor anti-DoS protection, Mandatory SMB Signing on Win 11](https://youtu.be/SdTqXGXDM4c)
 - [Do you know this Gmail hack??](https://www.youtube.com/shorts/NPmQRQM5Ehk)
 - [Beginner cyber security projects you NEED to get hired](https://youtu.be/LFlsDm8w36A)
+- [I Hacked this Firmware and Found Something Concerning.](https://youtu.be/qWVRJsaUTIg)
