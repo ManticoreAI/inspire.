@@ -2,3 +2,4 @@
 - [Do you know this Gmail hack??](https://www.youtube.com/shorts/NPmQRQM5Ehk)
 - [Beginner cyber security projects you NEED to get hired](https://youtu.be/LFlsDm8w36A)
 - [I Hacked this Firmware and Found Something Concerning.](https://youtu.be/qWVRJsaUTIg)
+- https://youtu.be/U_7CGl6VWaQ
