@@ -3,3 +3,4 @@
 - [Beginner cyber security projects you NEED to get hired](https://youtu.be/LFlsDm8w36A)
 - [I Hacked this Firmware and Found Something Concerning.](https://youtu.be/qWVRJsaUTIg)
 - https://youtu.be/U_7CGl6VWaQ
+- [you need this FREE CyberSecurity tool](https://youtu.be/3CaG2GI1kn0)
