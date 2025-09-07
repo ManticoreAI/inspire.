@@ -6,3 +6,4 @@
 - [you need this FREE CyberSecurity tool](https://youtu.be/3CaG2GI1kn0)
 - [NSA Backdoor in Windows? This and more from the guy who created Windows Task Manager!](https://youtu.be/HYzbihjcbLs)
 - [The Unfixable ARM Memory Bug](https://youtu.be/WgqprqFeiVs)
+- [Ransomware, Bribery, and AI That Hacks Without Humans | Cybersecurity Whisperer Labor Day Special](https://youtu.be/BvfnMclgTzM)
