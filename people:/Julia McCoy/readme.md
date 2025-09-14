@@ -1,0 +1,1 @@
+- [This $7 Billion Company Just Fired Half Their Security Team - Here’s Why AI Won](https://youtu.be/Mu93leH6lMQ)
